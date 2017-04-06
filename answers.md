@@ -117,7 +117,7 @@ c. $("select").val("college").change();
 
 d. $("select").text("college").change();
 
-e. None of the above
+***answer e. None of the above***
 
 ---
 
@@ -127,7 +127,7 @@ a. $(".content").appendTo("#left");
 
 b. $(".content").append("#left");
 
-c. $(".content").moveTo("#left");
+***answer c. $(".content").moveTo("#left");***
 
 d. None of the above
 
@@ -139,6 +139,6 @@ a. $("label#message").append("p#content");
 
 b. $("label#message").moveTo("p#content");
 
-c. $("label#message").appendTo("p#content");
+***answer c. $("label#message").appendTo("p#content");***
 
 d. None of the above
